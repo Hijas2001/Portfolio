@@ -1,4 +1,6 @@
 // import React from 'react'
+import About from "./component/About"
+import Hero from "./component/Hero"
 import Navbar from "./component/Navbar"
 
 
@@ -10,6 +12,8 @@ const App = () => {
       </div>
       <div className="container mx-auto px-8">
         <Navbar></Navbar>
+        <Hero></Hero>
+        <About></About>
       </div>
     </div>
   )
