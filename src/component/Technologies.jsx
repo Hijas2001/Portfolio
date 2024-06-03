@@ -1,7 +1,6 @@
 import { RiReactjsLine } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
 import { SiMongodb } from "react-icons/si";
-import { DiRedis } from "react-icons/di";
 import { SiExpress } from "react-icons/si";
 import { RiTailwindCssLine } from "react-icons/ri";
 const Technologies = () => {
@@ -13,13 +12,13 @@ const Technologies = () => {
                     <RiReactjsLine className="text-7xl text-cyan-400" />
                 </div>
                 <div className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <FaNodeJs className="text-7xl text-cyan-400" />
+                    <FaNodeJs className="text-7xl text-green-500" />
                 </div>
                 <div className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <SiMongodb className="text-7xl text-cyan-400" />
+                    <SiExpress className="text-7xl text-blue-500" />
                 </div>
                 <div className="rounded-2xl border-4 border-neutral-800 p-4">
-                    <SiExpress className="text-7xl text-cyan-400" />
+                    <SiMongodb className="text-7xl text-green-500" />
                 </div>
                 <div className="rounded-2xl border-4 border-neutral-800 p-4">
                     <RiTailwindCssLine className="text-7xl text-cyan-400" />
