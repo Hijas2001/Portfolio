@@ -7,14 +7,18 @@ import imageecom from "../assets/Screenshot 2024-06-03 172704.png";
 import imagecrud from "../assets/Screenshot 2024-06-03 173308.png";
 import imagetinker from "../assets/Screenshot 2024-06-03 222452.png";
 
-export const HERO_CONTENT = `I am a passionate full-stack developer with a knack for crafting robust and scalable web applications. I am experienced with self-learning and best practices in creating an E-commerce website using React, Node.js, Express, and another one user control system using node.js express, EJS, and  Mongodb. I have honed my skills in front-end and back-end technologies like React, as well as back-end technologies like Node.js,express and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences..`;
+export const HERO_CONTENT = `I am a passionate full-stack developer with a knack for crafting robust and scalable web applications.I have experience with a diverse range of technologies, including React, Node.js, Express, Tailwind CSS, and MongoDB.My goal is to leverage my expertise to create innovative solutions that drive business growth and enhance user satisfaction. I am always excited to take on new challenges and collaborate with others to build impactful web applications.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. I am experienced with self-learning and best practices in creating an E-commerce website using React, Node.js, Express, and created another one user control system using node.js express, EJS, and  Mongodb. overall the best practices make a parson to efficient developer I am working with variety of websites it will expand coding ideas .I have worked with a variety of technologies, including React, Node.js,express, tailwint-css, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. My journey in web development began with a deep curiosity about how things work, which has evolved into a fulfilling career where I continuously strive to learn and adapt to new challenges.\n
+
+One of my notable projects includes creating an E-commerce website using React, Node.js, and Express. Additionally, I have developed a user control system with Node.js, Express, EJS, and MongoDB. These experiences have honed my skills in both front-end and back-end development, enabling me to craft robust and scalable web applications.I thrive in collaborative environments where teamwork and innovation are key. I enjoy solving complex problems and delivering high-quality solutions that provide exceptional user experiences. My commitment to best practices and continuous self-learning ensures that I stay current with industry trends and technologies.\n
+
+Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects. These activities not only enrich my personal life but also keep me engaged and inspired in my professional endeavors.`;
 
 export const EXPERIENCES = [
   {
     image: imageecom,
-    role: "StyleStreet |",
+    role: "StyleStreet ",
     company: " Fully E-commerce Website ",
     description: `> Designed and developed a comprehensive E-Commerce website for selling dresses online, ensuring a fully 
     responsive and user-friendly interface.
@@ -25,7 +29,7 @@ export const EXPERIENCES = [
   },
   {
     image: imagecrud,
-    role: " CRUD User | ",
+    role: " CRUD User  ",
     company: "User Management System",
     description: `> Designed and developed a user management system with comprehensive CRUD (Create, Read, Update, Delete) 
     operations.
@@ -36,7 +40,7 @@ export const EXPERIENCES = [
   },
   {
     image: imagetinker,
-    role: "TinkerHub | ",
+    role: "TinkerHub  ",
     company: "User Registration and Attendance System",
     description: `> Implemented a registration system allowing new users to sign up and create profiles.
     > Developed functionality for users to mark their attendance upon logging in.

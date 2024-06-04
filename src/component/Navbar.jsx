@@ -16,7 +16,6 @@ const Navbar = () => {
         <a href='https://github.com/Hijas2001'> <FaGithub></FaGithub></a>
         <a href='https://www.instagram.com/hijasss_/'>  <FaInstagram></FaInstagram></a>
         <a href='https://leetcode.com/profile/'>  <SiLeetcode /></a>
-
       </div>
     </nav>
 
