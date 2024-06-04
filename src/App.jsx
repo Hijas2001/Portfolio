@@ -1,5 +1,6 @@
 // import React from 'react'
 import About from "./component/About"
+import Contact from "./component/Contact"
 import Experiences from "./component/Experiences"
 import Education from "./component/Experiences"
 import Hero from "./component/Hero"
@@ -20,6 +21,7 @@ const App = () => {
         <Technologies></Technologies>
         {/* <Education></Education> */}
         <Experiences></Experiences>
+        <Contact></Contact>
       </div>
     </div>
   )
